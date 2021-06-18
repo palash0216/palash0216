@@ -1,4 +1,4 @@
-[![MastHead](https://dribbble.com/shots/14225432-Coder/attachments/5867395?mode=media)]
+[![MastHead](https://coverfiles.alphacoders.com/443/thumb-1920-44313.png)]
 <h1 align="center">Hi 👋, I'm Palash Mishra</h1>
 <h3 align="center">A learning Enthusiast from Madhya Pradesh ,India.</h3>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@PalashM04400479" target="blank">
   <img src="https://img.shields.io/twitter/follow/@palashm04400479?logo=twitter&style=for-the-badge" alt="@PalashM04400479" /></a> </p>
-<br>
-[![Palash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=palash0216&theme=xcode)](https://git.io/palash0216)
-<br>
+<!-- <br>
+[![Palash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=palash0216&theme=xcode)](https://git.io/palash0216) -->
+<!-- <br> -->
 - 🔭 I’m currently working on an Internship Program with Inmovidu. **Artificial Intelligence Industrial Program**
 
 - 🌱 I’m currently learning **Everything**

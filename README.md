@@ -17,12 +17,12 @@
 
 - 📫 How to reach me **palashmishra54@gmail.com**
 
-- 📄 Know about my experiences [: Not available currently]
+- 📄 Know about my experiences : [Not available currently]
 
-- ⚡ Fun fact **I think I'm crazy about everything**
+- ⚡ Fun fact : **I think I'm crazy about everything**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/@PalashM04400479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@palashm04400479" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/palash mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palash mishra" height="30" width="40" /></a>
 <a href="https://kaggle.com/Palash Mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="palash mishra" height="30" width="40" /></a>

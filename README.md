@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palash0216" alt="palash0216" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@palashm04400479" target="blank"><img src="https://img.shields.io/twitter/follow/@palashm04400479?logo=twitter&style=for-the-badge" alt="@palashm04400479" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@palashm04400479" target="blank"><img src="https://img.shields.io/twitter/follow/@palashm04400479?logo=twitter&style=for-the-badge" alt="@PalashM04400479" /></a> </p>
 
 - 🔭 I’m currently working on an Internship Program with Inmovidu. **Artificial Intelligence Industrial Program**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [: Not available currently](: Not available currently)
 
-- ⚡ Fun fact **I think i am Crazy for everything**
+- ⚡ Fun fact **I think I'm crazy about everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

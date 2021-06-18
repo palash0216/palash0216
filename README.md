@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **palashmishra54@gmail.com**
 
-- 📄 Know about my experiences [: Not available currently](: Not available currently)
+- 📄 Know about my experiences [: Not available currently]
 
 - ⚡ Fun fact **I think I'm crazy about everything**
 

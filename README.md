@@ -1,6 +1,8 @@
 ![MastHead](https://coverfiles.alphacoders.com/443/thumb-1920-44313.png)
 <h1 align="center">Hi 👋, I'm Palash Mishra</h1>
 <h3 align="center">A learning Enthusiast from Madhya Pradesh ,India.</h3>
+<p align="center"> <img src="https://i.pinimg.com/originals/fa/8e/c4/fa8ec408c142f66a489374c328db482e.gif" alt="palash0216" /> </p>
+
 
 ___________
 
@@ -19,19 +21,20 @@ ___________
 
 
 
-- 🔭 I’m currently working on an Internship Program with Inmovidu. **Artificial Intelligence Industrial Program**
+⚙ 🔭 I’m currently working on an Internship Program with Inmovidu.
+      **Artificial Intelligence Industrial Program**
 
-- 🌱 I’m currently learning **Everything**
+⚙ 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/palash0216](https://github.com/palash0216)
+⚙ 👨‍💻 All of my projects are available at [https://github.com/palash0216](https://github.com/palash0216)
 
-- 💬 Ask me about **Nothing**
+⚙ 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **palashmishra54@gmail.com**
+⚙ 📫 How to reach me **palashmishra54@gmail.com**
 
-- 📄 Know about my experiences : ( Not available currently)
+⚙ 📄 Know about my experiences : ( Not available currently)
 
-- ⚡ Fun fact **I think I'm crazy about everything**
+⚙ ⚡ Fun fact **I think I'm crazy about everything**
  ___________
 <!-- <p align="center"> <img src="https://w0.pngwave.com/png/283/358/vine-silhouette-silhouette-png-clip-art.png" alt="palash0216" /> </p> -->
 <h3 align="left">Connect with me:</h3>

@@ -34,7 +34,7 @@ ___________
 
 ⚙ 📄 Know about my experiences : ( Not available currently)
 
-⚙ ⚡ Fun fact **I think I'm crazy about everything**
+⚙ ⚡ Fun fact : **I think I'm crazy about everything**
  ___________
 <!-- <p align="center"> <img src="https://w0.pngwave.com/png/283/358/vine-silhouette-silhouette-png-clip-art.png" alt="palash0216" /> </p> -->
 <h3 align="left">Connect with me:</h3>
@@ -60,8 +60,29 @@ ___________
 
 ___________
 
+<br/>
+<br/>
+
+<a href="https://github.com/palash0216/github-readme-activity-graph"><img alt="Palash Mishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=palash0216&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+___________
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash0216&show_icons=true&locale=en&layout=compact" alt="palash0216" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palash0216&show_icons=true&locale=en" alt="palash0216" /></p>
 
+___________
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palash0216&" alt="palash0216" /></p>
+
+___________
+
+
+<p><img align="center" src="http://quicklol.com/wp-content/uploads/2017/06/video-game-nostalgia-80s-and-90s-gif-image.gif" alt="palash0216" width=1200 height=150/></p>
+
+

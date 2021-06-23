@@ -70,7 +70,7 @@ ___________
 
 __
 
-<img align="right" alt="Github Image" src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/family-sayings-black-and-white-clipart.png" height="600" width="400"/>
+<img align="right" alt="Github Image" src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/family-sayings-black-and-white-clipart.png" height="600" width="350"/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash0216&show_icons=true&locale=en&layout=compact" alt="palash0216" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palash0216&show_icons=true&locale=en" alt="palash0216" /></p>

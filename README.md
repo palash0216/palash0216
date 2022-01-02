@@ -77,7 +77,7 @@ ____
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash0216&show_icons=true&locale=en&layout=compact" alt="palash0216" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=palash0216&show_icons=true&locale=en" alt="palash0216" /></p>
-<p><img align="right" src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/ezgif.com-gif-maker.gif" alt="palash0216" /></p>
+<!-- <p><img align="right" src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/ezgif.com-gif-maker.gif" alt="palash0216" /></p> -->
 
 ___________
 

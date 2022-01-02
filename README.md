@@ -82,6 +82,7 @@ ___________
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palash0216&" alt="palash0216" /></p>
+<p><img align="right" src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/ezgif.com-gif-maker.gif" alt="palash0216" /></p>
 
 ___________
 

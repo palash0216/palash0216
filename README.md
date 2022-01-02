@@ -1,7 +1,7 @@
 ![MastHead](https://github.com/palash0216/Web-dev-basic-Frame/blob/main/20210619_125120_0000.png?raw=true)
 <h1 align="center"> नमस्ते� 👋≧◉ᴥ◉≦</h1>
 <h2 align="center">Simplicity is the soul of efficiency.</h2>
-<p align="center"> <img src="https://i.pinimg.com/originals/fa/8e/c4/fa8ec408c142f66a489374c328db482e.gif" alt="palash0216" /> </p>
+<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/Palash%20Mishra.png" alt="palash0216" /> </p>
 
 
 ___________

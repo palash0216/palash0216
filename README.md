@@ -94,6 +94,8 @@ ___________
 ___________
 
 <!-- Start Slider HTML Code BODY section -->
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script>
 <div id="wowslider-container1">
 <div class="ws_images"><ul>
 		<li><img src="data1/images/action21892.jpg" alt="Helikopter" title="Helikopter" id="wows1_0"/>Type of rotorcraft</li>

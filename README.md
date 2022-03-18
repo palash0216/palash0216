@@ -89,7 +89,7 @@ ___________
 ___________
 
 
-<p><img align="center" src="http://quicklol.com/wp-content/uploads/2017/06/video-game-nostalgia-80s-and-90s-gif-image.gif" alt="palash0216" width=1200 height=150/></p>
+<p><img src="http://quicklol.com/wp-content/uploads/2017/06/video-game-nostalgia-80s-and-90s-gif-image.gif" alt="palash0216" width=1200 height=150/></p>
 
 
 ___________

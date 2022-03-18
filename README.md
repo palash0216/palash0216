@@ -83,7 +83,6 @@ ___________
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palash0216&" alt="palash0216" /></p>
-<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/915858363clock-animated-gif-7.gif" alt="palash0216" height="250" width="250" /> </p>
 
 
 ___________
@@ -93,5 +92,5 @@ ___________
 
 
 ___________
-<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/915858363clock-animated-gif-7.gif" alt="palash0216" height="300" width="1000" /> </p>
+<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/915858363clock-animated-gif-7.gif" alt="palash0216" height="500" width="1000" /> </p>
 

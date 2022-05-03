@@ -85,8 +85,7 @@ ____
 
 ___________
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="left">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palash0216&" alt="palash0216" /></p>
 
 

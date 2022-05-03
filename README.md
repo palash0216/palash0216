@@ -86,7 +86,7 @@ ____
 ___________
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palash0216&" alt="palash0216" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palash0216&" width="400" height="400" alt="palash0216" /></p>
 
 
 ___________

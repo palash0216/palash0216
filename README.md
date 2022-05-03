@@ -96,5 +96,5 @@ ___________
 
 
 ___________
-<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/915858363clock-animated-gif-7.gif" alt="palash0216" height="500" width="1000" /> </p>
+<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/animation_500_kxa883sd.gif" alt="palash0216" height="500" width="1000" /> </p>
 

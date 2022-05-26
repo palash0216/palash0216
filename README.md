@@ -96,5 +96,5 @@ ___________
 
 
 ___________
-<p align="center"> <img src="[https://github.com/palash0216/Web-dev-basic-Frame/blob/main/animation_500_kxa883sd.gif](https://github.com/palash0216/Web-dev-basic-Frame/blob/main/photo-1504805572947-34fad45aed93.jpg)" alt="palash0216" height="500" width="1000" /> </p>
+<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/photo-1504805572947-34fad45aed93.jpg" alt="palash0216" height="500" width="1000" /> </p>
 

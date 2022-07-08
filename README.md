@@ -1,5 +1,5 @@
 <!-- ![MastHead](https://github.com/palash0216/Web-dev-basic-Frame/blob/main/Palash%20Mishra.png?raw=true) -->
-<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/Beige%20Grey%20Blogger%20YouTube%20Channel%20Art.png" alt="palash0216" height="300" width="1000" /> </p>
+<p align="center"> <img src="https://github.com/palash0216/Web-dev-basic-Frame/blob/main/Beige%20Grey%20Blogger%20YouTube%20Channel%20Art.png" alt="palash0216" height="500" width="1000" /> </p>
 <h1 align="center"> नमस्ते� 👋≧◉ᴥ◉≦</h1>
 
 

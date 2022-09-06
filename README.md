@@ -26,7 +26,7 @@ ___________
 
 
 
-⚙ 🔭 I’m currently working on an CP.
+⚙ 🔭 I’m currently working on CP.
       
 
 ⚙ 🌱 I’m currently learning **Everything**

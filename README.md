@@ -6,9 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Palash!;I'm+a+Coder+And+a+Developer...;I'm+an+Engineering+student;And+I'm+proud+to+be+an+Indian)](https://git.io/typing-svg)
 
 <h2 align="center">खुद वो बदलाव बनिए जो आप दुनिया में देखना चाहते हैो</h2>
-<p align="center"> <img src="https://camo.githubusercontent.com/1d85c963a766da0b34b128f3c339d8df0e734b3aa1350795a25938c4a24b6e14/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f38652f63342f66613865633430386331343266363661343839333734633332386462343832652e676966" alt="palash0216" /> </p>
-
-
 ___________
 
 
